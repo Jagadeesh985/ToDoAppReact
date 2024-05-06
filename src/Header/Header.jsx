@@ -3,7 +3,7 @@ import "./header.css";
 
 export default function Header() {
   return (
-    <header className="Header">
+    <header className="header">
       <h1>ToDo App</h1>
       <SubHeader />
     </header>
